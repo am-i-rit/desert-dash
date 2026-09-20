@@ -1,8 +1,8 @@
 """Dino Game in Python
 A game similar to the famous Chrome Dino Game, built using pygame-ce.
 Made by Amrit Bhasin (@am-i-rit)
-506934a4767bf8a57212d379c311f01f09cb2710
 """
+
 import pygame
 import random
 

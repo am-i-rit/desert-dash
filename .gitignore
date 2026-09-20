@@ -1,0 +1,5 @@
+.venv/
+.DS_Store
+highscores.txt
+__pycache__/
+*.py[cod]
